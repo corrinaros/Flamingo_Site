@@ -1,0 +1,384 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-image:url("img/flamingowall.jpg");
+    background-attachment: fixed;
+    background-size: 1226px;
+    background-color: rgb(0, 0, 0);
+    background-position: 50.6% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+#box1 {
+    float: left;
+    height: 1048px;
+    margin-left: -44.762301%;
+    margin-top: -714px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+}
+
+#text {
+    float: left;
+    font-size: 80px;
+    width: 40.26762%;
+    height: auto;
+    text-align: left;
+    font-weight: 500;
+    line-height: 1em;
+    margin-left: 34.129989%;
+    margin-top: 109px;
+    clear: none;
+    min-height: 55px;
+    font-family: 'trebuchet ms';
+    color: rgb(255, 255, 255);
+}
+
+#text1 {
+    float: left;
+    font-size: 30px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 34.611037%;
+    margin-top: 0px;
+    clear: both;
+    min-height: 0px;
+    font-family: 'trebuchet ms';
+    color: rgb(255, 255, 255);
+    letter-spacing: 11px;
+}
+
+#box2 {
+    float: left;
+    height: 666px;
+    margin-left: 8.527486%;
+    margin-top: 34px;
+    clear: both;
+    width: 84.857226%;
+    background-color: rgb(255, 255, 255);
+    display: block;
+}
+
+#image {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 32.737883%;
+    margin-top: 24.25px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 36.533321%;
+}
+
+#text13 {
+    float: left;
+    font-size: 20px;
+    width: 6.646472%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 16.012562%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    text-indent: 0px;
+    letter-spacing: normal;
+    display: block;
+}
+
+#text14 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.161262%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    display: block;
+}
+
+#text15 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.007573%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    display: block;
+}
+
+#text16 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.056575%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    display: block;
+}
+
+#text17 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.033188%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    display: block;
+}
+
+#text9 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.297621%;
+    margin-top: 16px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text8 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.297621%;
+    margin-top: 16px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text7 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.297621%;
+    margin-top: 16px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text6 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 21.553145%;
+    margin-top: 16px;
+    clear: both;
+    min-height: 0px;
+}
+
+#text12 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 41.464428%;
+    margin-top: 14px;
+    clear: both;
+    min-height: 0px;
+}
+
+#text11 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.297872%;
+    margin-top: 339px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text10 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 36.489362%;
+    margin-top: 339px;
+    clear: both;
+    min-height: 0px;
+}
+
+#text3 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -2.209109%;
+    margin-top: 194px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text2 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 19.029255%;
+    margin-top: 194px;
+    clear: both;
+    min-height: 0px;
+}
+
+#text5 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -2.209551%;
+    margin-top: 27px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text4 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 20.465075%;
+    margin-top: 27px;
+    clear: both;
+    min-height: 0px;
+    font-family: 'trebuchet ms';
+}
+
+#formgroup {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 10.135162%;
+    margin-top: 67px;
+    clear: none;
+    width: auto;
+    min-height: auto;
+}
+
+#textinput {
+    float: none;
+    height: auto;
+    padding: 0px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+}
+
+#text18 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding: 0.2em 0em;
+    display: block;
+}
+
+#resultbox {
+    float: left;
+    height: 405px;
+    clear: both;
+    width: 47.555338%;
+    margin-left: 1.316357%;
+    margin-top: 20.5px;
+}
+
+#box {
+    float: left;
+    height: auto;
+    margin-left: 36.491024%;
+    margin-top: 102px;
+    clear: both;
+    width: 10.638298%;
+    min-height: 50px;
+}
+
+#locationresult {
+    float: left;
+    height: 405px;
+    margin-left: 2.760039%;
+    margin-top: 20.5px;
+    clear: none;
+    width: 45.132223%;
+}
+

@@ -1,0 +1,282 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-image:url("img/flamingowall.jpg");
+    background-position: 50.6% 0%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1226px;
+    background-color: rgb(0, 0, 0);
+}
+
+#box {
+    float: left;
+    height: 1048px;
+    margin-left: -44.762301%;
+    margin-top: -714px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+}
+
+#text {
+    float: left;
+    font-size: 80px;
+    width: 40.269282%;
+    height: auto;
+    text-align: left;
+    font-weight: 500;
+    line-height: 1em;
+    margin-left: 34.129989%;
+    margin-top: 109px;
+    clear: none;
+    min-height: 55px;
+    font-family: 'trebuchet ms';
+    color: rgb(255, 255, 255);
+}
+
+#text1 {
+    float: left;
+    font-size: 30px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 34.611037%;
+    margin-top: 0px;
+    clear: both;
+    min-height: 0px;
+    font-family: 'trebuchet ms';
+    color: rgb(255, 255, 255);
+    letter-spacing: 11px;
+}
+
+#box1 {
+    float: left;
+    height: 666px;
+    margin-left: 8.527486%;
+    margin-top: 34px;
+    clear: both;
+    width: 84.857226%;
+    background-color: rgb(255, 255, 255);
+    display: block;
+}
+
+#image {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 32.737883%;
+    margin-top: 24.25px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 36.533321%;
+}
+
+#text9 {
+    float: left;
+    font-size: 20px;
+    width: 6.646472%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 16.012562%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    text-indent: 0px;
+    letter-spacing: normal;
+    display: block;
+}
+
+#text10 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.161262%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    display: block;
+}
+
+#text11 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.007573%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    display: block;
+}
+
+#text12 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.056575%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    display: block;
+}
+
+#text13 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.033188%;
+    margin-top: 24px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'trebuchet ms';
+    display: block;
+}
+
+#text5 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.297872%;
+    margin-top: 421px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text4 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.297872%;
+    margin-top: 421px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text3 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.297872%;
+    margin-top: 421px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text2 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 21.554189%;
+    margin-top: 421px;
+    clear: both;
+    min-height: 0px;
+}
+
+#text8 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 41.464428%;
+    margin-top: 14px;
+    clear: both;
+    min-height: 0px;
+}
+
+#text7 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.297872%;
+    margin-top: 339px;
+    clear: none;
+    min-height: 0px;
+}
+
+#text6 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 36.489362%;
+    margin-top: 339px;
+    clear: both;
+    min-height: 0px;
+}
+
+#text14 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.320953%;
+    margin-top: 100px;
+    clear: none;
+    min-height: 0px;
+    font-family: 'trebuchet ms';
+    color: rgb(120, 120, 120);
+}
+
